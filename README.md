@@ -19,7 +19,3 @@ Primeira etapa: Obtenção dos seguintes dados
   13. Número de optativas
   14. Aplicar departamento ao código
   15. Avaliar desempenho por departamento (separar por biológicas, exatas (matemática, física, estatística e programação), química, geografia, fitotecnia e fitossanitarismo, solos, zootecnia, economia e extensão e formativas(código AGRO) 
-
-Segunda etapa: Aplicação de machine learning nos dados para previsão de desempenho por departamento
-  1. Utilizar departamentos contendo 5 ou mais disciplinas
-  2. Avaliar no desempenho previsão para nota e para frequência
