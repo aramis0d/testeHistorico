@@ -6,3 +6,13 @@ Os comandos são relativamente tranquilos de serem utilizados.
 Foi possível encontrar as falhas e realizar o tratamento dos dados sem maiores problemas.
 Deixa a desejar no quesito de aplicação dos dados para geração de gráficos.
 Apresentou problemas por codificação na importação do csv 
+
+
+Python
+
+Ferramenta mais complexa tanto no aprendizado quanto nas possibilidades.
+Inicialmente a análise seria feita no VS Code, porém trabalhar pelo Jupyter Notebook se provou mais versátil pela separação do código em células e pela visualização dos dados.
+Através da biblioteca Pandas é possível utilizar alguns comandos semelhantes aos utilizados no MySQL, este aspecto tornou o processo ligeiramente mais fácil.
+A possibilidade de trabalhar os dados e na mesma plataforma passar os mesmos para gráficos é bem interessante, mas foi uma parte que demandou um certo tempo.
+Nem toda documentação é simples, como opinião pessoal posso dizer que achei a documentação do Pandas menos confusa que a do Seaborn. As tais Cheat Sheets são muito boas para agilizar esses processos
+
