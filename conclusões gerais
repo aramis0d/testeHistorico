@@ -15,4 +15,4 @@ Inicialmente a análise seria feita no VS Code, porém trabalhar pelo Jupyter No
 Através da biblioteca Pandas é possível utilizar alguns comandos semelhantes aos utilizados no MySQL, este aspecto tornou o processo ligeiramente mais fácil.
 A possibilidade de trabalhar os dados e na mesma plataforma passar os mesmos para gráficos é bem interessante, mas foi uma parte que demandou um certo tempo.
 Nem toda documentação é simples, como opinião pessoal posso dizer que achei a documentação do Pandas menos confusa que a do Seaborn. As tais Cheat Sheets são muito boas para agilizar esses processos
-
+Baixa correlação entre nota e frequência compromete o estudo em ML
