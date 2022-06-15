@@ -1,0 +1,91 @@
+Semestre,Ano,Disciplina,CH,Nota,Frequencia,Situacao,Observacao,Codigo,Periodo
+2,2015,Anatomia dos Animais Domesticos,60,74,90%,Aprovado,,BA044,1
+2,2015,Expressao Grafica,60,82,91%,Aprovado,,CEG012,1
+2,2015,Fundamentos de Programacao de Computadores,60,100,100%,Aprovado,,CI182,1
+2,2015,Fisica para Agronomia I,30,69,100%,Aprovado,,CF107,1
+2,2015,Introducao a Engenharia Agronomica,30,80,100%,Aprovado,,AF062,1
+2,2015,Introducao a Estatistica,60,66,86%,Aprovado,,CE009,1
+2,2015,Matematica I,60,61,80%,Aprovado,,CMB122,1
+2,2015,Quimica Geral,60,50,86%,Aprovado,,CQ206,1
+2,2015,Quimica Orgânica,30,50,86%,Aprovado,,CQ207,1
+2,2015,Zoologia Aplicada a Agronomia,30,73,86%,Aprovado,,BZ070,1
+1,2016,Bioquimica Vegetal,60,85,93%,Aprovado,,BQ058,2
+1,2016,Fisiologia dos Animais Domesticos,60,75,90%,Aprovado,,BF082,2
+1,2016,Fisica para Agronomia II,30,66,100%,Aprovado,,CF108,2
+1,2016,Matematica II,60,70,96%,Aprovado,,CMB222,2
+1,2016,Morfologia e Anatomia Vegetal,60,91,93%,Aprovado,,BB078,2
+1,2016,Quimica Analitica Fundamental,90,53,91%,Aprovado,,CQ208,2
+1,2016,Sociologia Rural,30,81,80%,Aprovado,,HC655,2
+1,2016,Topografia D,75,56,89%,Aprovado,,GA085,2
+2,2016,Agrometeorologia,60,76,100%,Aprovado,,AL055,3
+2,2016,Entomologia Agricola,60,79,100%,Aprovado,,BZ071,3
+2,2016,Genetica Vegetal,60,33,90%,Reprovado,,BG062,3
+2,2016,Geologia para Agronomia,60,72,93%,Aprovado,,GC145,3
+2,2016,Introducao aos Sistemas de Informacao Geografica,45,72,80%,Aprovado,,GA086,3
+2,2016,Recursos Florestais na Propriedade Agricola I,30,69,93%,Aprovado,,AS109,3
+2,2016,Sistematica Vegetal para Agronomia,60,66,93%,Aprovado,,BB079,3
+2,2016,Tecnologia dos Produtos Agricolas,90,86,100%,Aprovado,,AL019,3
+2,2016,Zootecnia Geral,60,75,86%,Aprovado,,AZ073,3
+1,2017,Extensao Rural,30,84,86%,Aprovado,,AE072,4
+1,2017,Fisiologia Vegetal,60,53,80%,Aprovado,,BB080,4
+1,2017,"Fundamentos de Hidrologia, Irrigacao e Drenagem",30,72,86%,Aprovado,,AL013,4
+1,2017,Genetica Vegetal,60,52,,Aprovado,Aproveitamento,BG062,4
+1,2017,Geoprocessamento na Avaliacao do Meio Fisico,60,51,100%,Aprovado,,AL011,4
+1,2017,Nutricao e Alimentacao Animal,60,72,93%,Aprovado,,AZ074,4
+1,2017,Pedologia,60,67,86%,Aprovado,,AL012,4
+1,2017,Pragas de Plantas Cultivadas,60,70,100%,Aprovado,,BP063,4
+1,2017,Recursos Florestais na Propriedade Agricola II,60,73,100%,Aprovado,,AS110,4
+2,2017,Economia Rural,45,50,80%,Aprovado,,AE001,5
+2,2017,Experimentacao Agricola,60,43,100%,Reprovado,,AF064,5
+2,2017,Fisica do Solo,30,66,76%,Aprovado,,AL041,5
+2,2017,Horticultura Geral,60,65,75%,Aprovado,,AF063,5
+2,2017,"Legislacao Rural, Pericia e Avaliacao",45,30,91%,Reprovado,,AE073,5
+2,2017,Manejo Integrado de Pragas,60,22,30%,Reprovado,,AF065,5
+2,2017,Microbiologia Agricola,60,67,93%,Aprovado,,AL016,5
+2,2017,Maquinas e Implementos Agricolas,60,59,93%,Aprovado,,AL015,5
+2,2017,Quimica e Fertilidade do Solo,60,37,66%,Reprovado,,AL014,5
+1,2018,Agricultura Geral,60,72,86%,Aprovado,,AF066,6
+1,2018,Biotecnologia Vegetal,30,63,80%,Aprovado,,AF073,6
+1,2018,Ecologia Agricola,60,74,86%,Aprovado,,AL321,6
+1,2018,Fundamentos de Fitopatologia,60,64,93%,Aprovado,,AF093,6
+1,2018,Hidraulica e Irrigacao,60,71,90%,Aprovado,,AL043,6
+1,2018,Horticultura Especial,60,53,80%,Aprovado,,AF067,6
+1,2018,Legislacao e etica Profissional,30,78,100%,Aprovado,,AF068,6
+1,2018,Melhoramento de Plantas,60,52,86%,Aprovado,,AF069,6
+2,2018,Construcões Rurais e Ambiencia,60,76,93%,Aprovado,,AL045,7
+2,2018,Defesa Sanitaria Vegetal e Urbana,60,80,80%,Aprovado,,AF070,7
+2,2018,Gerenciamento Ambiental Avancado,60,85,100%,Aprovado,Optativa,AL062,7
+2,2018,Manejo de Lavoura B,30,55,100%,Aprovado,,AF072,7
+2,2018,Manejo de Lavoura A,30,51,93%,Aprovado,,AF071,7
+2,2018,Manejo e Conservacao de Solo e agua,60,71,80%,Aprovado,,AL046,7
+2,2018,Mecanizacao Agricola e Logistica,30,75,100%,Aprovado,,AL044,7
+2,2018,Mudancas Climaticas e Impactos na Agropecuaria,30,80,93%,Aprovado,Optativa,AL059,7
+2,2018,Planejamento e Administracao Rural,45,61,97%,Aprovado,,AE075,7
+2,2018,Quimica e Fertilidade do Solo,60,70,83%,Aprovado,,AL014,7
+3,2018,Estruturas para Cultivo em Ambientes Protegidos,45,75,88%,Aprovado,Optativa,AL035,7
+1,2019,Comercializacao e Sistemas Agroindustriais,30,76,90%,Aprovado,,AE077,8
+1,2019,Controle de Plantas Daninhas,60,75,100%,Aprovado,,AF077,8
+1,2019,Energia na Agricultura,30,45,86%,Aprovado,,AL049,8
+1,2019,Experimentacao Agricola,60,30,,Reprovado,,AF064,8
+1,2019,"Legislacao Rural, Pericia e Avaliacao",45,30,,Reprovado,,AE073,8
+1,2019,Manejo de Lavoura C,30,80,100%,Aprovado,,AF074,8
+1,2019,Manejo de Plantas Potenciais,60,80,96%,Aprovado,Optativa,AF097,8
+1,2019,Manejo Integrado de Pragas,60,68,93%,Aprovado,,AF065,8
+1,2019,Minhocultura,60,93,93%,Aprovado,Optativa,AL010,8
+1,2019,Nutricao Mineral de Plantas,60,58,83%,Aprovado,,AL042,8
+1,2019,Politica e Desenvolvimento Rural,45,71,93%,Aprovado,,AE076,8
+1,2019,Producao e Tecnologia de Sementes,60,80,98%,Aprovado,,AF075,8
+2,2019,Armazenamento de Produtos Agricolas,60,70,86%,Aprovado,,AF078,9
+2,2019,Bovinocultura de Corte,60,75,96%,Aprovado,Optativa,AZ081,9
+2,2019,Doencas de Plantas Cultivadas,60,50,83%,Aprovado,,AF076,9
+2,2019,Energia na Agricultura,30,57,86%,Aprovado,,AL049,9
+2,2019,Experimentacao Agricola,60,92,100%,Aprovado,,AF064,9
+2,2019,Forragicultura,60,70,86%,Aprovado,,AF079,9
+2,2019,Manejo de Bacias Hidrograficas,60,65,80%,Aprovado,,AL050,9
+2,2019,Poluicao do Solo,60,88,80%,Aprovado,Optativa,AL058,9
+3,2019,Basic Concepts of Rural Science,30,95,93%,Aprovado,,AE085,9
+1,2020,"Legislacao Rural, Pericia e Avaliacao",45,,,,Cancelado,AE073,10
+1,2020,Trabalho de Conclusao de Curso,12,100,100%,Aprovado,,AGRO003,10
+3,2020,"Legislacao Rural, Pericia e Avaliacao",45,100,100%,Aprovado,,AE073,11
+3,2021,Estagio Supervisionado,240,100,100%,Aprovado,,AGRO002,12
+3,2021,Apicultura,60,74,98%,Aprovado,Optativa,AZ016,12
