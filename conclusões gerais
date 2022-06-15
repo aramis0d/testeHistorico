@@ -16,3 +16,14 @@ Através da biblioteca Pandas é possível utilizar alguns comandos semelhantes 
 A possibilidade de trabalhar os dados e na mesma plataforma passar os mesmos para gráficos é bem interessante, mas foi uma parte que demandou um certo tempo.
 Nem toda documentação é simples, como opinião pessoal posso dizer que achei a documentação do Pandas menos confusa que a do Seaborn. As tais Cheat Sheets são muito boas para agilizar esses processos
 Baixa correlação entre nota e frequência compromete o estudo em ML
+
+
+Power BI
+
+Ferramenta focada em recursos visuais, portanto a obtenção das informações ocorre de maneira um pouco mais intuitiva.
+O tratamento dos dados é realizado através do Power Query, o qual apresenta certas limitações quando comparado com algumas possibilidades presentes no MySQL e no Python.
+É possível perceber que o Power Query é uma ferramenta eficiente para tratar grandes volumes de dados, para trabalhar com células específicas é pouco prático.
+Por se tratar de uma ferramenta visual o programa exige mais do hardware do que as outras ferramentas utilizadas.
+Alguns aspectos do programa são muito intuitivos, enquanto que em alguns pontos é possível perceber que há necessidade de conhecimentos específicos.
+Algumas informações foram obtidas com uso de DAX, linguagem que facilita a obtenção de certos dados.
+
